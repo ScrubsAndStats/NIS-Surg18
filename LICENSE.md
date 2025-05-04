@@ -1,7 +1,11 @@
 **Copyright © Ali Salman. All Rights Reserved.**
 
-All code, files, and content within this repository are protected under international copyright laws. Rights to access, use, modify, and distribute any part of this repository are reserved exclusively by the copyright holders.
+This repository and all associated files, including code, data, scripts, and documentation, are protected under national and international copyright laws.
 
-This repository is confidential and intended solely for authorized users with explicit permission. Any unauthorized access, use, reproduction, or distribution of its content is strictly prohibited. If you have accessed this repository or any of its files without authorization, please delete all copies immediately and notify the copyright holder.
+This content is intended solely for private academic collaboration among authorized individuals. Public visibility of this repository does not imply permission for reuse, redistribution, or derivative work.
+
+**No part of this repository may be copied, reproduced, modified, distributed, or used for any academic, commercial, or public purpose without the author’s express written permission.**
+
+Unauthorized access or use is strictly prohibited and may result in legal action. If you have accessed this content without permission, please delete all copies immediately and notify the author.
 
 **Author: Ali Salman <alisalman.md@outlook.com>**
